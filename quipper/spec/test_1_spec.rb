@@ -1,4 +1,5 @@
 require 'rspec'
+require 'word_helper'
 
 # Write a module called 'WordHelper' and write code to make the following specs pass.
 
