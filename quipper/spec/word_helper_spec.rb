@@ -1,7 +1,7 @@
 require 'rspec'
 require 'word_helper'
 
-describe "WordHelper" do                                                                                                                                                                                                                                                      
+describe WordHelper do                                                                                                                                                                                                                                                      
                                                                                                                                                                                                                                                                               
   it "tallies words in a string" do                                                                                                                                                                                                                                             
     sample = "key tree cat mouse tree monkey"                                                                                                                                                                                                                                 
